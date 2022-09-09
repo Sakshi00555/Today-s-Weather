@@ -1,4 +1,5 @@
 # Today-s-Weather
+## Personal Project
 ## Through this website you can able to see upcoming 7-Days Weather using search bar and also using your live location and also You can use Geo Location.
 
 
