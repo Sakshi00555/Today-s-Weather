@@ -30,4 +30,6 @@
 - [https://playful-crostata-7658aa.netlify.app/]
 
 
+![weather2](https://user-images.githubusercontent.com/83025741/189342103-a7261353-e902-452f-b535-81e01ec85d64.PNG)
+![weather3](https://user-images.githubusercontent.com/83025741/189342129-80261444-0f1e-43bd-a031-ac2ad1c21440.PNG)
 
