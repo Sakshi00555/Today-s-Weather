@@ -27,7 +27,7 @@
 - HTML, CSS, ReactJS, Bootstrap
 
 ## Live app Link
-- [https://playful-crostata-7658aa.netlify.app/]
+- [https://amazing-narwhal-b86021.netlify.app/]
 
 
 ![weather2](https://user-images.githubusercontent.com/83025741/189342103-a7261353-e902-452f-b535-81e01ec85d64.PNG)
